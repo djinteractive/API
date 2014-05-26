@@ -1,0 +1,8 @@
+[Database]
+DBNAME="";
+DBSERVER="";
+DBUSER="";
+DBPASSWORD="";
+
+[Edit]
+IP=""
